@@ -6,7 +6,7 @@
 
 <h1 align="center">Dashboard</h1>
 
-![image](https://github.com/user-attachments/assets/9e41165f-8430-40fa-a2a6-3028bc4df165)
+![image](https://pbs.twimg.com/media/GSTU2XOXQAA7Bef?format=jpg&name=large)
 
 <h1 align="center">Docs</h1>
 
