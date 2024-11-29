@@ -10,6 +10,22 @@
 
 <h1 align="center">Docs</h1>
 
+<h2 align="center">Bool</h2>
+
+<div align="center">
+<h3>
+  <a href="https://medium.com/@22ndcentury/guide-to-setting-up-a-validator-node-on-bool-network-6aa9f24b4e88">Full doc</a>
+</h3>
+</div>
+
+<h2 align="center">MilkyWay</h2>
+
+<div align="center">
+<h3>
+  <a href="https://medium.com/@22ndcentury/validator-node-setup-guide-for-milkyway-network-f40414c68e26">Full doc</a>
+</h3>
+</div>
+
 <h2 align="center">OG Labs</h2>
 
 <div align="center">
